@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b0826dce-b179-420e-97d6-3f864ae0adb3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Atm/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Atm/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Atm/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Atm/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Atm/ATM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Atm/ATMMachine.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Atm/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form-demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form-demo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form-demo/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form-demo/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form-demo/src/main/java/com/itshaala/formdemo/Controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form-demo/src/main/java/com/itshaala/formdemo/FormDemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form-demo/src/main/java/com/itshaala/formdemo/ServletInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form-demo/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form-demo/src/main/resources/templates/login-success.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form-demo/src/main/resources/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form-demo/src/test/java/com/itshaala/formdemo/FormDemoApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form-html/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form-html/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form-html/Form-html/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form-html/Form-html/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form-html/Form-html/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form-html/Form-html/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form-html/Form-html/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form-html/Form-html/src/main/java/com/itshaala/formhtml/FormHtmlApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form-html/Form-html/src/main/java/com/itshaala/formhtml/ServletInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form-html/Form-html/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form-html/Form-html/src/test/java/com/itshaala/formhtml/FormHtmlApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form-html/Form/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form-html/Form/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form-html/Form/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form-html/Form/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form-html/Form/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form-html/Form/src/main/java/com/itshaala/form/FormApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form-html/Form/src/main/java/com/itshaala/form/ServletInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form-html/Form/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form-html/Form/src/test/java/com/itshaala/form/FormApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form-html/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form-html/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form-html/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form-html/src/main/java/com/itshaala/formhtml/FormHtmlApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form-html/src/main/java/com/itshaala/formhtml/ServletInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form-html/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form-html/src/test/java/com/itshaala/formhtml/FormHtmlApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form/src/main/java/com/itshaala/form/Controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form/src/main/java/com/itshaala/form/FormApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form/src/main/java/com/itshaala/form/ServletInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form/src/main/resources/login-success.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form/src/main/resources/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Form/src/test/java/com/itshaala/form/FormApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-01/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-01/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-01/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-01/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-01/src/main/java/com/itshaala/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hibernate-01/src/test/java/com/itshaala/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-001/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-001/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-001/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-001/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-001/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-001/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-001/src/main/java/com/itshaala/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate-001/src/test/java/com/itshaala/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../try1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../try1/src/main/java/com/itshaala/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/itshaala/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Jsp-001/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Jsp-001/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Jsp-001/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Jsp-001/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Jsp-001/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Jsp-001/src/main/webapp/WEB-INF/expression-tag.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Jsp-001/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Jsp-001/src/main/webapp/calculator-form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Jsp-001/src/main/webapp/calculator.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Jsp-001/src/main/webapp/declaration-tag.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Jsp-001/src/main/webapp/scriplet-tag.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project-Expense/Expense-Manager-app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project-Expense/Expense-Manager-app/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project-Expense/Expense-Manager-app/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project-Expense/Expense-Manager-app/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project-Expense/Expense-Manager-app/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project-Expense/Expense-Manager-app/src/main/java/com/itshaala/expensemanagerapp/ExpenseManagerAppApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project-Expense/Expense-Manager-app/src/main/java/com/itshaala/expensemanagerapp/controller/ExpenseController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project-Expense/Expense-Manager-app/src/main/java/com/itshaala/expensemanagerapp/service/ExpenseServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project-Expense/Expense-Manager-app/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project-Expense/Expense-Manager-app/src/test/java/com/itshaala/expensemanagerapp/ExpenseManagerAppApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project-Expense/Expense-mgr-application/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project-Expense/Expense-mgr-application/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project-Expense/Expense-mgr-application/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project-Expense/Expense-mgr-application/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project-Expense/Expense-mgr-application/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project-Expense/Expense-mgr-application/src/main/java/com/itshaala/expensemgrapplication/ExpenseMgrApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project-Expense/Expense-mgr-application/src/main/java/com/itshaala/expensemgrapplication/controller/ExpenseController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project-Expense/Expense-mgr-application/src/main/java/com/itshaala/expensemgrapplication/dao/ExpenseDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project-Expense/Expense-mgr-application/src/main/java/com/itshaala/expensemgrapplication/model/Expense.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project-Expense/Expense-mgr-application/src/main/java/com/itshaala/expensemgrapplication/model/Income.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project-Expense/Expense-mgr-application/src/main/java/com/itshaala/expensemgrapplication/service/ExpenseMgrAppApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project-Expense/Expense-mgr-application/src/main/java/com/itshaala/expensemgrapplication/service/ExpenseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project-Expense/Expense-mgr-application/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project-Expense/Expense-mgr-application/src/test/java/com/itshaala/expensemgrapplication/ExpenseMgrApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project-Expense/Expense/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project-Expense/Expense/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project-Expense/Expense/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project-Expense/Expense/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project-Expense/Expense/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project-Expense/Expense/src/main/java/com/itshaala/expense/ExpenseApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project-Expense/Expense/src/main/java/com/itshaala/expense/entity/Expense.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project-Expense/Expense/src/main/java/com/itshaala/expense/repository/ExpenseRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project-Expense/Expense/src/main/java/com/itshaala/expense/service/ExpenseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project-Expense/Expense/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project-Expense/Expense/src/test/java/com/itshaala/expense/ExpenseApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project-Expense/expense-mgr-app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project-Expense/expense-mgr-app/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project-Expense/expense-mgr-app/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project-Expense/expense-mgr-app/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project-Expense/expense-mgr-app/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project-Expense/expense-mgr-app/src/main/java/com/itshaala/expensemgrapp/ExpenseMgrAppApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project-Expense/expense-mgr-app/src/main/java/com/itshaala/expensemgrapp/controller/ExpenseController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project-Expense/expense-mgr-app/src/main/java/com/itshaala/expensemgrapp/dao/ExpenseDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project-Expense/expense-mgr-app/src/main/java/com/itshaala/expensemgrapp/model/Expense.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project-Expense/expense-mgr-app/src/main/java/com/itshaala/expensemgrapp/model/Income.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project-Expense/expense-mgr-app/src/main/java/com/itshaala/expensemgrapp/service/ExpenseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project-Expense/expense-mgr-app/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project-Expense/expense-mgr-app/src/test/java/com/itshaala/expensemgrapp/ExpenseMgrAppApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-13-spring-rest-spring-mvc-13/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-13-spring-rest-spring-mvc-13/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-13-spring-rest-spring-mvc-13/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-13-spring-rest-spring-mvc-13/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-13-spring-rest-spring-mvc-13/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-13-spring-rest-spring-mvc-13/src/main/java/com/itshaala/controller/ExpenseController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-13-spring-rest-spring-mvc-13/src/main/java/com/itshaala/controller/GreetingController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-13-spring-rest-spring-mvc-13/src/main/java/com/itshaala/dao/ExpenseDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-13-spring-rest-spring-mvc-13/src/main/java/com/itshaala/model/Expense.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-13-spring-rest-spring-mvc-13/src/main/java/com/itshaala/service/ExpenseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-13-spring-rest-spring-mvc-13/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-13-spring-rest-spring-mvc-13/src/main/webapp/WEB-INF/views/greeting.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-13-spring-rest-spring-mvc-13/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-13-spring-rest-spring-mvc-13/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-13-spring-rest-spring-mvc/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-13-spring-rest-spring-mvc/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-13-spring-rest-spring-mvc/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-13-spring-rest-spring-mvc/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-13-spring-rest-spring-mvc/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-13-spring-rest-spring-mvc/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-13-spring-rest-spring-mvc/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-13-spring-rest-spring-mvc/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-Framework/largest element/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-Framework/largest element/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-Framework/largest element/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-Framework/largest element/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-Framework/largest element/largest element.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-Framework/largest element/src/SecondLargestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-Framework/spring-14-spring-mvc-spring-jdbc-manual/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-Framework/spring-14-spring-mvc-spring-jdbc-manual/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-Framework/spring-14-spring-mvc-spring-jdbc-manual/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-Framework/spring-14-spring-mvc-spring-jdbc-manual/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-Framework/spring-14-spring-mvc-spring-jdbc-manual/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-Framework/spring-14-spring-mvc-spring-jdbc-manual/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-Framework/spring-14-spring-mvc-spring-jdbc-manual/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-Framework/untitled/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-Framework/untitled/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-Framework/untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-Framework/untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-Framework/untitled/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-Framework/untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../addexpenses/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../addexpenses/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../addexpenses/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../addexpenses/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../addexpenses/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../expense-manager-01/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../expense-manager-01/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../expense-manager-01/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../expense-manager-01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../expense-manager-01/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../expense-manager-01/src/main/java/constants/MysqlConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../expense-manager-01/src/main/java/dao/ExpenseServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../expense-manager-01/src/main/java/utils/ConnectionUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../expense-manager-01/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../expense-manager-01/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../expense-manager/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../expense-manager/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../expense-manager/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../expense-manager/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../expense-manager/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../expense-manager/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../expense-manager/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/untitled.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2kNACLlyxWQTVUqdYzny5s2o6Lj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0826dce-b179-420e-97d6-3f864ae0adb3" name="Changes" comment="" />
+      <created>1723113535364</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723113535364</updated>
+      <workItem from="1723113536492" duration="255000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
